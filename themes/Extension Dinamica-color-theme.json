@@ -46,7 +46,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#a353ff"
+				"foreground": "#53ceff"
 			}
 		},
 		{
@@ -110,7 +110,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#8471f0"
+				"foreground": "#71ddf0"
 			}
 		},
 		{
