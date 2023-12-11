@@ -1,0 +1,26 @@
+{
+    "name": "theme-extension-",
+    "displayName": "Theme-extension ",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Extension Dinamica",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Extension Dinamica-color-theme.json"
+            }
+        ]
+    },
+    "repository":{
+        "url":"https://github.com/ninobarrios/TemaDinamico.git",
+        "type":"git"
+    },
+    "publisher": "thema-codigo"
+}
