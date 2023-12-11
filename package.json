@@ -1,8 +1,8 @@
 {
     "name": "theme-extensions",
-    "displayName": "Theme-extensions",
+    "displayName": "Tema Dinamico",
     "description": "",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.85.0"
     },

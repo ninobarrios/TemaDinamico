@@ -31,3 +31,6 @@ Puedes instalar este tema directamente desde Visual Studio Code:
 2. Busca "theme-extensions".
 3. Haz clic en "Instalar".
 4. Selecciona tu tema activo en las preferencias de Visual Studio Code.
+
+
+©Nino Barrios
