@@ -29,7 +29,8 @@ Puedes instalar este tema directamente desde Visual Studio Code:
 
 1. Ve a "Extensiones" (Ctrl+Shift+X).
 2. Busca "theme-extensions".
-3. Haz clic en "Instalar".
+3. Desacargar e Instalar Tema Dinamico 
+## ![Alt text](image-10.png) .
 4. Selecciona tu tema activo en las preferencias de Visual Studio Code.
 
 
