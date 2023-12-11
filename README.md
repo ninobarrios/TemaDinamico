@@ -1,14 +1,15 @@
-#Extension Dinamica
-"Explora nuestros temas diseñados con contrastes de colores y fondos recomendados para brindar una experiencia visual agradable, evitando la fatiga ocular durante las extensas sesiones de programación. Cuida de tus ojos mientras trabajas con nuestros diseños que buscan optimizar la legibilidad y minimizar el esfuerzo visual."
+## EXTENSION DINAMICA
+
+Explora nuestros temas diseñados con contrastes de colores y fondos recomendados para brindar una experiencia visual agradable, evitando la fatiga ocular durante las extensas sesiones de programación. Cuida de tus ojos mientras trabajas con nuestros diseños que buscan optimizar la legibilidad y minimizar el esfuerzo visual."
 
 
 ## GENERAL
 
-![Alt text](image-3.png)
+![Alt text](image-6.png)
 
 ## CSS
 
-![Alt text](image-1.png)
+![Alt text](image-7.png)
 
 ## HTML
 
@@ -16,11 +17,11 @@
 
 ## REACT
 
-![Alt text](image-2.png)
+![Alt text](image-8.png)
 
 ## NODEJS
 
-![Alt text](image-5.png)
+![Alt text](image-9.png)
 
 ## Instalación
 
